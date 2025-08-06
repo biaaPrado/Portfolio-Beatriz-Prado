@@ -4,7 +4,7 @@ export default function Home() {
       <div className="max-w-2xl text-center md:text-left">
         <h1 className="text-5xl font-bold">Beatriz Prado Soche</h1>
         <h2 className="text-3xl mt-2">
-          I'm a <span className="text-purple-400 font-semibold">Frontend Developer</span>
+          I'm a <span className="text-purple-400 font-semibold">Web Developer</span>
         </h2>
         <p className="text-1xl mt-4 text-gray-300">
           Apaixonada por tecnologia e desenvolvimento. Sempre em busca de novos desafios e oportunidades. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id repudiandae asperiores adipisci quam unde sequi molestias beatae hic reprehenderit, temporibus omnis.
