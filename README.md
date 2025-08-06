@@ -1,12 +1,44 @@
-# React + Vite
+# 🌐 Portfólio Pessoal – Beatriz Prado Soche
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o código do meu portfólio, desenvolvido para apresentar minhas **habilidades técnicas**, **projetos acadêmicos** e **experiências** na área de **Ciência da Computação**.  
+O site foi construído utilizando **React.js** e **Tailwind CSS**, priorizando um design moderno, responsivo e de fácil navegação.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Conteúdo do Portfólio
 
-## Expanding the ESLint configuration
+- **Sobre Mim** – breve apresentação e trajetória acadêmica/profissional  
+- **Minhas Skills** – linguagens, frameworks e ferramentas com as quais trabalho  
+- **Projetos** – destaques de projetos desenvolvidos em cursos e experiências práticas  
+- **Contato** – links para GitHub, LinkedIn, Email e Instagram  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [React.js](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)  
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+
+---
+
+## 🚀 Acesse o Portfólio
+
+🔗 [Clique aqui para visualizar o portfólio publicado](#)  
+*(link será adicionado em breve)*  
+
+---
+
+## 📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seuusuario)  
+- [GitHub](https://github.com/seuusuario)  
+- [Email](mailto:seuemail@example.com)  
+- [Instagram](https://instagram.com/seuusuario)  
+
+---
+
+✨ Desenvolvido com dedicação por **Beatriz Prado Soche**
