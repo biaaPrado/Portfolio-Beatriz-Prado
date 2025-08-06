@@ -1,4 +1,4 @@
-# 🌐 Portfólio Pessoal – Beatriz Prado Soche
+# 👩🏻‍💻 Portfólio Pessoal – Beatriz Prado Soche
 
 Este repositório contém o código do meu portfólio, desenvolvido para apresentar minhas **habilidades técnicas**, **projetos acadêmicos** e **experiências** na área de **Ciência da Computação**.  
 O site foi construído utilizando **React.js** e **Tailwind CSS**, priorizando um design moderno, responsivo e de fácil navegação.  
@@ -27,7 +27,7 @@ O site foi construído utilizando **React.js** e **Tailwind CSS**, priorizando u
 
 ## 🚀 Acesse o Portfólio
 
-🔗 [Clique aqui para visualizar o portfólio publicado](#)  
+🔗 [](#)  
 *(link será adicionado em breve)*  
 
 ---
