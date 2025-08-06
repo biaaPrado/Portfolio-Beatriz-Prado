@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+html, body {
+  overflow-x: hidden; /* evita scroll lateral */
+  overflow-y: auto;   /* só mostra scroll se precisar */
+  margin: 0;
+  padding: 0;
+}
