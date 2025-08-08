@@ -20,7 +20,7 @@ export default function About() {
         </p>
 
         <p>
-          Além disso, estou focada em aprofundar meus conhecimentos em <span className="font-bold">Análise de Dados</span>, <span className="font-bold">inteligência Artificial</span>, e no aprimoramento contínuo de habilidades em desenvolvimento web, explorando ferramentas e técnicas que me permitam criar soluções inteligentes, escaláveis e orientadas por dados.
+          Além disso, estou focada em aprofundar meus conhecimentos em <span className="font-bold">Análise de Dados</span>, <span className="font-bold">Inteligência Artificial</span>, e no aprimoramento contínuo de habilidades em desenvolvimento web, explorando ferramentas e técnicas que me permitam criar soluções inteligentes, escaláveis e orientadas por dados.
         </p>
 
         <p>
