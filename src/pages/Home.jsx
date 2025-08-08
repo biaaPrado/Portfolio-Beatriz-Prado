@@ -20,7 +20,8 @@ export default function Home() {
           I'm a <span className="text-purple-400 font-semibold">Web Developer</span>
         </h2>
         <p className="text-base sm:text-lg mt-4 text-gray-300">
-          Apaixonada por tecnologia e desenvolvimento. Sempre em busca de novos desafios e oportunidades. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id repudiandae asperiores adipisci quam unde sequi molestias beatae hic reprehenderit, temporibus omnis.
+            Apaixonada por tecnologia e desenvolvimento, estou sempre em busca de novos desafios e oportunidades para aprender e crescer. 
+            Gosto de transformar ideias em soluções práticas e eficientes, unindo criatividade e técnica.
         </p>
 
         <div className="flex flex-wrap gap-4 justify-center md:justify-start items-center mt-6">
