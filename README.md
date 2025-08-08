@@ -27,8 +27,7 @@ O site foi construído utilizando **React.js** e **Tailwind CSS**, priorizando u
 
 ## 🚀 Acesse o Portfólio
 
-🔗 [Clique aqui para visualizar o portfólio publicado](#)  
-*(link será adicionado em breve)*  
+🔗 [Clique aqui para visualizar o portfólio publicado](https://portfoliobeatrizprado.netlify.app/)  
 
 ---
 
