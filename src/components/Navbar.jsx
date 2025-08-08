@@ -75,21 +75,21 @@ export default function Navbar({ setPage }) {
           <hr className="w-full border-t border-gray-700 my-2" />
           <button
             onClick={() => handleClick("sobre")}
-            className="hover:text-purple-400 flex items-center gap-2 bg-gray-700 p-1 rounded-lg"
+            className="hover:text-purple-400 flex items-center gap-2 bg-gray-700 p-1 rounded-3xl"
           > 
           <i class="fa-regular fa-id-card"></i>
             Sobre Mim
           </button>
           <button
             onClick={() => handleClick("skills")}
-            className="hover:text-purple-400 flex items-center gap-2 bg-gray-700 p-1 rounded-lg"
+            className="hover:text-purple-400 flex items-center gap-2 bg-gray-700 p-1 rounded-3xl"
           >
             <i class="fa-solid fa-hammer"></i>
             Skills
           </button>
           <button
             onClick={() => handleClick("projeto")}
-            className="hover:text-purple-400 flex items-center gap-2 bg-gray-700 p-1 rounded-lg"
+            className="hover:text-purple-400 flex items-center gap-2 bg-gray-700 p-1 rounded-3xl"
           >
             <i class="fa-solid fa-laptop-code"></i>
             Projetos

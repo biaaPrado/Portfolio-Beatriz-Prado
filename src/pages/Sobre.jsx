@@ -3,7 +3,7 @@ export default function About() {
     <section className="flex flex-col items-center justify-center text-white p-6 sm:p-10 md:px-16 lg:px-20 max-w-7xl mx-auto">
       <h2 className="text-2xl sm:text-3xl text-center font-bold text-purple-400 mb-6">Sobre Mim</h2>
 
-      <div className="bg-gray-800 p-6 sm:p-8 rounded-xl shadow-lg max-w-8xl w-full leading-relaxed space-y-6 text-justify text-base sm:text-lg md:text-xl">
+      <div className="bg-gray-800 p-6 sm:p-8 rounded-2xl shadow-lg max-w-8xl w-full leading-relaxed space-y-6 text-justify text-base sm:text-lg md:text-xl">
         <p>
           Sou estudante de Ciência da Computação na{' '}
           <span className="text-purple-300 font-medium">UNIFESP - Universidade Federal de São Paulo</span>, com formação Técnica em Informática pelo{' '}

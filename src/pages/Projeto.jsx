@@ -2,37 +2,60 @@ function Projects() {
   const projects = [
     {
       title: "Portfólio Pessoal",
-      description: "Site responsivo desenvolvido com React e Tailwind.",
-      link: "#"
+      description: "Portfólio principal de projetos desenvolvidos por mim. Site responsivo desenvolvido com React e Tailwind.",
+      tech: "skills/react.png",
+      link: "https://github.com/biaaPrado/Portfolio-Beatriz-Prado.git",
+      image: "/projects/portfolio.png" 
     },
     {
-      title: "Gerenciador de Tarefas",
-      description: "Aplicação web para organizar e acompanhar tarefas.",
-      link: "#"
+      title: "Gym-Hunt",
+      description: "Plataforma web com objetivo de localizar academias próximas e demais informações. Além disso, conta com a simulação de uma rede social para usuários interessados no mundo fitness.",
+      tech: "skills/laravel.png",
+      link: "https://github.com/biaaPrado/GymHunt-Web",
+      image: "/projects/gym-hunt.png" 
     },
     {
-      title: "Landing Page",
-      description: "Página de apresentação com design moderno e responsivo.",
-      link: "#"
-    }
+      title: "KeyFriends",
+      description: "E-commerce de chaveiros de impressora 3D. Permite a visualização dos produtos, adição ao carrinho e simulação de compra. Site responsivo, desenvolvido com PHP e Tailwind.",
+      tech: "skills/php.svg",
+      link: "#",
+      image: "/projects/KeyFriends.png" // exemplo
+    },
   ];
 
   return (
-    <section id="projects" className="py-16 bg-gray-100">
-      <h2 className="text-3xl font-bold text-center mb-10">Projetos</h2>
-      <div className="grid md:grid-cols-3 gap-8">
+    <section id="projects" className="py-6 sm:p-10 text-center bg-gray-900 max-w-7xl mx-auto">
+      <h2 className="text-3xl font-bold text-purple-400 mb-6">Projetos</h2>
+      <div className="grid md:grid-cols-3 gap-12 justify-center">
         {projects.map((proj, index) => (
-          <div key={index} className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
-            <h3 className="text-xl font-semibold mb-2">{proj.title}</h3>
-            <p className="text-gray-600 mb-4">{proj.description}</p>
-            <a
+          <div key={index} className="bg-gray-800 flex flex-col justify-between p-6 rounded-2xl shadow">
+            <img
+              src={proj.image}
+              alt={proj.title}
+              className="w-full h-40 object-contain rounded-2xl"
+            />
+
+            <div className="text-center m-2">
+              <h3 className="text-xl font-semibold mb-2">{proj.title}</h3>
+              <p className="text-gray-200 text-justify">{proj.description}</p>
+            </div>
+
+            <img
+              src={proj.tech}
+              alt={proj.name}
+              className="mx-auto mt-2 w-10 h-10 sm:w-6 sm:h-6 object-contain"
+            />
+            
+            <div className="mt-4">
+              <a
               href={proj.link}
-              className="text-blue-600 font-semibold hover:underline"
+              className="text-purple-600 font-semibold hover:p-2 hover:max-w hover:rounded-3xl hover:text-black transition hover:shadow-lg shadow-purple-500/50 hover:bg-purple-500"
               target="_blank"
               rel="noopener noreferrer"
-            >
-              Ver projeto →
-            </a>
+              >
+                <i className="fab fa-github"></i> Ver no GitHub 
+              </a>
+            </div>
           </div>
         ))}
       </div>

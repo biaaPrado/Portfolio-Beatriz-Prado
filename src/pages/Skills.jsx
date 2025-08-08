@@ -2,6 +2,7 @@ export default function Skills() {
   const skills = [
     { name: "C", icon: "/skills/c.png" },
     { name: "PHP", icon: "skills/php.svg" },
+    { name: "Laravel", icon: "skills/laravel.png" },
     { name: "Python", icon: "skills/python.png" },
     { name: "SQL", icon: "skills/sql.png" },
     { name: "JavaScript", icon: "skills/javascript.png" },
@@ -27,7 +28,7 @@ export default function Skills() {
         {skills.map((skill, index) => (
           <div
             key={index}
-            className="bg-gray-800 p-6 rounded-lg shadow-md hover:scale-105 transition transform duration-300"
+            className="bg-gray-800 p-6 rounded-2xl shadow-md hover:scale-105 transition transform duration-300"
           >
             <img
               src={skill.icon}

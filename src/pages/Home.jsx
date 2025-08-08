@@ -28,7 +28,7 @@ export default function Home() {
             href="https://www.canva.com/design/DAGjnpaCnHI/vRCPrV3PZlGjEp3fRgsm9w/view?utm_content=DAGjnpaCnHI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he3b3a085e2"
             download
             target="_blank"
-            className="bg-purple-500 text-black px-6 py-3 rounded-full font-medium hover:bg-purple-600 transition"
+            className="bg-purple-500 text-black px-6 py-3 rounded-3xl font-medium hover:bg-purple-600 transition hover:shadow-lg shadow-purple-600/50"
           >
             <i className="fa-solid fa-download mr-2"></i>
             Download CV
